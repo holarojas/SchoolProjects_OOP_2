@@ -1,0 +1,12 @@
+/* ------------------------------------------------------
+Workshop 8 part 2 - Reflect.txt
+
+Author: Martha Rocio Rojas Martinez
+Student ID: 112073218
+Email: mrrojas-martinez@myseneca.ca
+-----------------------------------------------------------
+
+For Workshop #8, I learned how to use inheritance and by completing the workshop I also learned how to differentiate an abstract class from a concrete class.
+For this workshop I also remembered how to use the getline function and I can see that is so much easier to use a C++ string to store the data than a C dynamic array.
+It was good that we could practice how to outpu the data in different formats and how we can reutilize functions to do that.
+In the project I struggled to get starting with MS 3, it was so confusing to see the instructions for the first time, so I kept on coding and reading again and again the instructions, so now I have a compiled code but I'm working now on bugs in order to get the exact output.
