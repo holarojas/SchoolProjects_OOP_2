@@ -1,0 +1,14 @@
+/*-----------------------------------------------------------
+Initials        Date           Reason
+
+Martha Rojas    20/02/2022     Workshop #5 - Reflection
+
+Student ID: 112073218
+-----------------------------------------------------------*/
+
+
+During this week, I completely understood the use of operations. Now I know how to refer to each operand and operator. I also learned when and why we could overload some operators, especially while using classes.
+
+I also learned how to write user-defined type conversions for classes, and these were very useful. Still, I had problems when two of these conversions overlapped, and the compiler didn't know exactly which cast function to enter. So, while re-reading the notes, I realized I could use the cast definition's explicit keyword, which helped in my case.
+
+The lab part of this workshop was more challenging because I had to read the notes thoroughly to grasp the concepts, and so for the second part, I found it a little easier to complete.
