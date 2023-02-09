@@ -1,0 +1,11 @@
+/* ------------------------------------------------------
+Workshop 7 part 1 - Reflect.txt
+
+Author: Martha Rocio Rojas Martinez
+Student ID: 112073218
+Email: mrrojas-martinez@myseneca.ca
+-----------------------------------------------------------
+
+For Workshop #7, I needed to use Derived classes. With the project and the last workshops, I feel we are truly putting it all together. From creating classes and member functions to memory management and more object-oriented concepts. 
+Workshop #7 was a bit easier because now all the instructions are given, but it is still challenging to get the correct logic for each function.
+Until today I have only completed MS1 of the project, and it has been a bit overwhelming because now we don't get much help from the readMe file. It was a rough start, but once I get to it, I can get back to check my notes and was able to complete the MS.
