@@ -1,0 +1,15 @@
+/* ------------------------------------------------------
+Workshop 9 part 2 - Reflect.txt
+
+Author: Martha Rocio Rojas Martinez
+Student ID: 112073218
+Email: mrrojas-martinez@myseneca.ca
+-----------------------------------------------------------
+
+For Workshop #9 I continued the practice with the base and derived classes. I have a wider vision on inheritance and I can remember easily some examples about polymorphism.
+
+I override the copy constructor and assignment operator overload from the base class so when I copied a derived class in the client code then the attributes from the base class were also copied (or assigned given the case).
+
+For the dynamic memory allocation and deallocation I feel prepare and I now know how to easily identify when I am missming a delete.
+
+I also learned how to manipulate the input stream and output streams when working with files. I struggled a lot when trying to retrieve the data from the test file, because I needed to find a way for the program to detect the \n as characters and also I needed to tell the program when to stop copying so I would not get the Heap errors.
