@@ -1,5 +1,0 @@
-﻿  HtmlText.cpp
-  Text.cpp
-C:\Users\marth\OneDrive\Documentos\Seneca College\Winter_2022\OOP 244\myOOP244\myWorkshop9\myLab\w9p1\Text.cpp(104,18): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
-  Generating Code...
-  w9p1.vcxproj -> C:\Users\marth\OneDrive\Documentos\Seneca College\Winter_2022\OOP 244\myOOP244\myWorkshop9\myLab\w9p1\Debug\w9p1.exe
