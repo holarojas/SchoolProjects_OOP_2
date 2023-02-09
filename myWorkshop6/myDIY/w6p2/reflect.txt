@@ -1,0 +1,14 @@
+-----------------------------------------------------------
+Student Name:	Martha Rocio Rojas Martinez
+Student ID:		112073218
+Date			Reason
+07/03/2022		Workshop #6 - Reflection
+-----------------------------------------------------------*/
+
+During Workshop #6, I practiced creating more overload operator functions and helper functions.
+
+Specifically, I had to use the copy constructor and copy assignment operator, which was really confusing because all of the object's data members were dynamically assigned char arrays. And I find char and string manipulation one of the most challenging topics in programming C or C++ because we always need to think about memory boundaries and take care of memory deallocation.
+
+I also learned how to overload the input and output operators and how to combine them with reading and printing functions, all while creating dynamically allocated char arrays.
+
+I believe iostream and iostream are topics that I should practice more to feel confident about programming.
