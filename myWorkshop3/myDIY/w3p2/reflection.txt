@@ -1,0 +1,16 @@
+/* ------------------------------------------------------
+Workshop 3 part 2
+Reflection
+-----------------------------------------------------------
+Student Name:	Martha Rocio Rojas Martinez
+Email:		mrrojas-martinez@myseneca.ca
+Student ID:	112073218
+Date:		06/Feb/22
+-----------------------------------------------------------*/
+
+During this week, we learned more concepts about object-oriented programming. We learned how to create classes, how they are different from structs, and how to control the privacy of the client code's access to our class information.
+
+We also learned the difference between data members and member functions inside a class. This lab mainly focused on that concept and how we can code it.
+To keep a correct encapsulation of the class, we learned about the Constructor and Destructor concepts, which I utilized in this lab. Even though my code worked before I added those specifications, I believe it is essential to keep the code clean and follow the design best practices.
+
+Finally, we learned about the Current object and how to access it with the "this" keyword. I used it in my code to access the Train class data members through the global function.
