@@ -1,0 +1,7 @@
+I learned how to create a class with its private and public data members and functions by completing this workshop. It was clear to me how the Constructor functions work with and without parameters. For instance, I now know that the default constructor sets the initial values for the object's data members when there is no data given, so we should set them initially to a safe empty state. And we can help ourselves with different "set" functions to validate business requirements and only set valuable data to the object.
+
+It was clear to me how the Destructor works and that we should only use it explicitly if we declared dynamic arrays, so we can delete the memory we set for the arrays.
+
+I know that for the client code to reach the data members, there should be a public function that makes that connection because the client code cannot access directly to private class data.
+
+Once again the deletion of memory was the main difficulty I had while working on the workshop. I know that with more practice I will be able to dominate it.
