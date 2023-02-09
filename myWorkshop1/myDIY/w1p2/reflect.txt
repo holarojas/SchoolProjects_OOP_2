@@ -1,0 +1,20 @@
+*/-----------------------------------------------------------
+Workshop 1 part 2
+Reflection
+
+Date: Jan 22th, 2022
+
+Name:           Martha Rocio Rojas Martinez
+Email:          mrrojas-martinez@myseneca.ca
+Student ID:     112073218
+
+-----------------------------------------------------------*/
+
+
+When coding parts one and two of this workshop, I could use some of the concepts learned during week 1 of the OOP 244 course. Beginning with the concept of "namespace," which we were told to use sdds to write our code inside, we are also including a new library called iostream and using the std namespace.
+
+We need the std namespace to use the cin and cout functions that are required for input and output, respectively.
+
+I divided the code into different modules with the guidance of Part 1 of this workshop, and that was useful to know where to write the functions I created for Part 2.
+
+In week two, we learned about dynamic memory allocation. I tried to use this concept in my code. Still, I had problems knowing how to create a new array of type struct PhoneDir because I needed to know in advance the number of records in the file, which I think there should be a function to do that. Still, I didn't think of using that sooner, so now I have no time to try, but I will try to allocate memory dynamically for the following arrays I create.
