@@ -1,0 +1,29 @@
+/*------------------------------------------------------
+Workshop 10 part 1
+Author: Martha Rocio Rojas Martinez
+Student ID: 112073218
+Date: 2022/04/12
+----------------------------------------------------------- */
+
+During this workshop I practice the coding of templates which are functions that can be constructed with arguments and return values that work for different classes or types, whitout the need to write a different function signature.
+
+The requirements for the template functions are:
+	--------------------------------------------------------
+	template <typename type>
+	Collection<type> select(const type arrObj[], int size, const type& obj)
+	{
+	}
+	  == comparison operator overload for each type
+	  Collection constructor and constructor for each type
+	  operator[] overload for each type
+	---------------------------------------------------------
+	template <typename type>
+	void printCollection(const Collection<type>& obj, const char* title)
+	{
+	}
+	  Function size() to retrieve the m_size of each type
+	  << operator overload for each type
+	---------------------------------------------------------
+
+About the project, I finished all milestones and I find MS51 to MS56 to be easier and faster, after getting done all the previous milestones.
+
