@@ -1,0 +1,44 @@
+
+lowBaseDnaSmall.csv
+
+2 RESULTS
+taggg
+
+
+
+-----------------------------------------------------------
+
+static struct DNA* dna = nullptr; //The DNA Pointer
+static FILE* file = NULL;
+struct DNA* foundRecords = nullptr;
+
+
+
+bool beginSearch(const char* filename)
+	recordDNA.strand = new char[strandArrSize]; //ALLOCATED DATA
+
+
+void initialize(int allocSize)
+	dna = new DNA[allocSize]; //ALLOCATED DATA
+
+
+void saveData(const DNA& recordDNA)
+	struct DNA* temp = nullptr;
+	temp = new DNA[arrSize + size];
+	temp[i].strand = new char[strandArrSize];
+
+
+	dna[numDNAs].strand = new char[strandArrSize];
+
+
+
+bool read(const char* subDNA)
+	foundRecords = new DNA[matchCount];
+	foundRecords[matchCount].strand = new char[foundStrandSize + 1];
+
+
+
+void sort()
+	struct DNA* tempSort = nullptr;
+	tempSort = new DNA[matchCount];
+	tempSort[j].strand = new char[charCounter + 1];

@@ -1,0 +1,15 @@
+/* ------------------------------------------------------
+Workshop 2 part 2
+Reflection
+-----------------------------------------------------------
+Date: Jan 31th, 2022
+
+Name:           Martha Rocio Rojas Martinez
+Email:          mrrojas-martinez@myseneca.ca
+Student ID:     112073218
+
+-----------------------------------------------------------*/
+
+In week two we learned about new types such as the boolean type. We learned about function overloading, in which we can now have two or more functions with the same name but different signature. Another concept was passing by reference which is very similar to passing by address which we used a lot last semester, but now if we use passing by reference we can have a more straightforward syntax.
+
+The most challenging concept for me was Dynamic Memory Allocation, but mainly the practice; what I mean by that is how to make the code match the theory. Reading about it and learning how it's supposed to work was easy. Still, when I needed to make the code, I encountered different errors, mostly because I could not delete the previously allocated memory. I then learned that sometimes the part of the code where the program breaks is not where the issue lies but where I have assigned the memory at first.
